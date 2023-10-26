@@ -1,1 +1,80 @@
 
+body{
+    background-color: #F5F5F5;
+    width:99vw;
+    height:fit-content;
+}
+.holder{
+    display: flex;
+    background-color: #FFFFFF;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+b{
+font-weight: bolder;
+
+}
+.line{
+    width: 70px;
+    height: 5px;
+    background-color:#0C78FF;
+}
+.profile{
+    display: flex;
+    flex-direction: row;
+
+}
+.percentage{
+    display: flex;
+    flex-direction: row;
+}
+/* .graph{
+    padding:2px;
+} */
+.graphbg{
+    width: 100%;
+    height: 5px;
+    text-align: left;
+    /* padding-top: 5px; */
+    background-color: #CDE1F8;
+}
+.react-css-js{
+width: 95%;
+height: 5px;
+background-color:#0C78FF;
+}
+.nodejs{
+    width: 90%;
+height: 5px;
+background-color:#0C78FF;
+}
+.c{
+    width: 99%;
+height: 5px;
+background-color:#0C78FF;
+}
+.aws{
+    width: 93%;
+height: 5px;
+background-color:#0C78FF;
+}
+.bar{
+    margin-inline-start: auto;
+}
+.container{
+    width: 40%;
+}
+.sec2{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+}
+.name{
+    padding-left:5vw;
+    margin-top: 0px;
+    padding-bottom: 0px;
+/*     display: flex; */
+    flex-direction: column;
+    
+}
